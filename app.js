@@ -1,3 +1,3 @@
 //add new feature
-//fot pull request
+//for pull request
 //add new feature -form
